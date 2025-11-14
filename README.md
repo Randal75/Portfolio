@@ -43,18 +43,18 @@ Experienced in customer interaction, investigation and data management, I have d
 
 ### 🎓 Education
 
-- [Master of Cyber Security and Forensics Certificate](./Master_CyberSecurity.pdf)
-- [Graduate Certificate in Cyber Security Certificate](./Graduate_CyberSecurity.pdf)
-- [Certificate IV in Cyber Security](./certificates/TAFE_Certificate_4.pdf)
-- [Diploma in Project Management](./Diploma_Project_Management.pdf)
+- [Master of Cyber Security and Forensics Certificate]
+- [Graduate Certificate in Cyber Security Certificate](./assets/USC_GRAD_PGO.pdf)
+- [Certificate IV in Cyber Security](./assets/TAFE_Certificate_4.pdf)
+- [Diploma in Project Management](./assets/PM_UK.pdf)
   
 
 ### 📄 Certificates
 - [Fortinet Certified Associate in Cybersecurity](./assets/Fortinet_Certified_Associate_in_Cybersecurity.pdf)
-- [CISCO – Introduction to Cybersecurity](./Graduate_CyberSecurity.pdf)
-- [Coursera – Getting started with SAS Visual Analytics]()
-- [Coursera – A Practical Introduction for Querying Databases](./Diploma_Project_Management.pdf)
-- [Coursera -  Getting started with Teradata](./Diploma_Project_Management.pdf)
+- [CISCO – Introduction to Cybersecurity](./assets/SAS_Visual_Analytics.pdf)
+- [Coursera – Getting started with SAS Visual Analytics](./assets/SAS_Visual_Analytics.pdf)
+- [Coursera – A Practical Introduction for Querying Databases](./assets/SAS_Visual_Analytics.pdf)
+- [Coursera -  Getting started with Teradata](./assets/Teradata.pdf)
   
 
 

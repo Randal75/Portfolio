@@ -50,7 +50,7 @@ Experienced in customer interaction, investigation and data management, I have d
   
 
 ### 📄 Certificates
-- [Fortinet Certified Associate in Cybersecurity](./Master_CyberSecurity.pdf)
+- [Fortinet Certified Associate in Cybersecurity](/asset/Fortinet Certified Associate in Cybersecurity.pdf)
 - [CISCO – Introduction to Cybersecurity](./Graduate_CyberSecurity.pdf)
 - [Coursera – Getting started with SAS Visual Analytics]()
 - [Coursera – A Practical Introduction for Querying Databases](./Diploma_Project_Management.pdf)

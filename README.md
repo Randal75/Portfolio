@@ -43,7 +43,7 @@ Experienced in customer interaction, investigation and data management, I have d
 
 ### 🎓 Education
 
-- [Master of Cyber Security and Forensics Certificate]
+- Master of Cyber Security and Forensics Certificate
 - [Graduate Certificate in Cyber Security Certificate](./assets/USC_GRAD_PGO.pdf)
 - [Certificate IV in Cyber Security](./assets/TAFE_Certificate_4.pdf)
 - [Diploma in Project Management](./assets/PM_UK.pdf)

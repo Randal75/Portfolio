@@ -31,7 +31,7 @@ Experienced in customer interaction, investigation and data management, I have d
 
 - [Master of Cyber Security and Forensics Certificate](./Master_CyberSecurity.pdf)
 - [Graduate Certificate in Cyber Security Certificate](./Graduate_CyberSecurity.pdf)
-- [Certificate IV in Cyber Security](./CertificateIV_CyberSecurity.pdf)
+- [Certificate IV in Cyber Security](./TAFE_Certificate_4.pdf)
 - [Diploma in Project Management](./Diploma_Project_Management.pdf)
 
 

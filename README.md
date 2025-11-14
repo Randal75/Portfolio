@@ -53,7 +53,7 @@ Experienced in customer interaction, investigation and data management, I have d
 - [Fortinet Certified Associate in Cybersecurity](./assets/Fortinet_Certified_Associate_in_Cybersecurity.pdf)
 - [CISCO – Introduction to Cybersecurity](./assets/SAS_Visual_Analytics.pdf)
 - [Coursera – Getting started with SAS Visual Analytics](./assets/SAS_Visual_Analytics.pdf)
-- [Coursera – A Practical Introduction for Querying Databases](./assets/SAS_Visual_Analytics.pdf)
+- [Coursera – A Practical Introduction for Querying Databases](./assets/SQL.pdf)
 - [Coursera -  Getting started with Teradata](./assets/Teradata.pdf)
   
 

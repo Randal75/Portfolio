@@ -54,7 +54,7 @@ Experienced in customer interaction, investigation and data management, I have d
 <h2>📄 Certificates</h2>
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="margin-bottom: 8px; padding: 5px; background-color: #f0f0f0; border-left: 4px solid #2196F3;"><a href="./assets/Fortinet_Certified_Associate_in_Cybersecurity.pdf" style="text-decoration: none; color: #000;">Fortinet Certified Associate in Cybersecurity</a></li>
-  <li style="margin-bottom: 8px; padding: 5px; background-color: #f0f0f0; border-left: 4px solid #2196F3;"><a href="https://www.credly.com/badges/c3aa597e-03f4-4a8f-aaee-9889bed18a90" style="text-decoration: none; color: #000;">CISCO – Introduction to Cybersecurity</a></li>
+  <li style="margin-bottom: 8px; padding: 5px; background-color: #f0f0f0; border-left: 4px solid #2196F3;"><a href="https://www.credly.com/badges/c3aa597e-03f4-4a8f-aaee-9889bed18a90" style="text-decoration: none; color: #000;">Cisco – Introduction to Cybersecurity</a></li>
   <li style="margin-bottom: 8px; padding: 5px; background-color: #f0f0f0; border-left: 4px solid #2196F3;"><a href="./assets/SAS_Visual_Analytics.pdf" style="text-decoration: none; color: #000;">Coursera – Getting started with SAS Visual Analytics</a></li>
   <li style="margin-bottom: 8px; padding: 5px; background-color: #f0f0f0; border-left: 4px solid #2196F3;"><a href="./assets/SQL.pdf" style="text-decoration: none; color: #000;">Coursera – A Practical Introduction for Querying Databases</a></li>
   <li style="margin-bottom: 8px; padding: 5px; background-color: #f0f0f0; border-left: 4px solid #2196F3;"><a href="./assets/Teradata.pdf" style="text-decoration: none; color: #000;">Coursera - Getting started with Teradata</a></li>

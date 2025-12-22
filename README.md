@@ -4,7 +4,7 @@
 
   <div style="margin-bottom: 25px; padding-bottom: 5px; border-bottom: 1px solid #4a00ff;">
     <p style="margin: 5px 0;">
-      <span style="font-size: 1.4em; color: #00ffc8;">🔗</span> 
+      <span style="font-size: 1.4em; color: #00ffc8;">
       <a href="https://www.linkedin.com/in/randal-nelson-aa935916" target="_blank" style="text-decoration: none; color: #00bfff; font-weight: bold; margin-left: 8px; transition: color 0.3s;">View My LinkedIn Profile</a>
     </p>
   </div>
@@ -15,7 +15,7 @@
   </div>
   <br />
 
-  <h2 style="color: #00ffc8;">🛠️ Skills</h2>
+  <h2 style="color: #00ffc8;"> Skills</h2>
 
   <table style="width: 100%; border-collapse: separate; border-spacing: 0;">
     <tr>
@@ -52,7 +52,7 @@
 
   <hr style="border-top: 1px solid #4a00ff; margin: 30px 0;">
 
-  <h2 style="color: #00ffc8;">🎓 Education</h2>
+  <h2 style="color: #00ffc8;">  Education</h2>
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #00ffc8;">Master of Cyber Security and Forensics Certificate</li>
     <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #00ffc8;"><a href="./assets/USC_GRAD_PGO.pdf" style="text-decoration: none; color: #e0e0e0;">Graduate Certificate in Cyber Security Certificate</a></li>
@@ -62,7 +62,7 @@
 
   <hr style="border-top: 1px solid #4a00ff; margin: 30px 0;">
 
-  <h2 style="color: #00ffc8;">📄 Certificates</h2>
+  <h2 style="color: #00ffc8;"> Certificates</h2>
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #4a00ff;"><a href="./assets/Fortinet_Certified_Associate_in_Cybersecurity.pdf" style="text-decoration: none; color: #e0e0e0;">Fortinet Certified Associate in Cybersecurity</a></li>
     <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #4a00ff;"><a href="https://www.credly.com/badges/c3aa597e-03f4-4a8f-aaee-9889bed18a90" style="text-decoration: none; color: #e0e0e0;">Cisco – Introduction to Cybersecurity</a></li>
@@ -73,20 +73,20 @@
 
   <hr style="border-top: 1px solid #4a00ff; margin: 30px 0;">
 
-  <h2 style="color: #00ffc8;">🚀 Projects</h2>
+  <h2 style="color: #00ffc8;"> Projects</h2>
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 15px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #ff9800;">
-      <strong style="font-size: 1.1em; color: #e0e0e0;">📱 Sales Field Force Automation</strong>
+      <strong style="font-size: 1.1em; color: #e0e0e0;"> Sales Field Force Automation</strong>
       <br>
       <a href="./assets/sales_force_Automation.pdf" style="text-decoration: none; color: #00bfff; font-weight: bold; margin-top: 5px; display: inline-block;">View Document</a>
     </li>
     <li style="margin-bottom: 15px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #ff9800;">
-      <strong style="font-size: 1.1em; color: #e0e0e0;">💰 Cash Management System</strong>
+      <strong style="font-size: 1.1em; color: #e0e0e0;"> Cash Management System</strong>
       <br>
       <a href="./assets/cash_managment.pdf" style="text-decoration: none; color: #00bfff; font-weight: bold; margin-top: 5px; display: inline-block;">View Document</a>
     </li>
     <li style="margin-bottom: 15px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #ff9800;">
-      <strong style="font-size: 1.1em; color: #e0e0e0;">🖥️ HP Server Solution</strong>
+      <strong style="font-size: 1.1em; color: #e0e0e0;"> HP Server Solution</strong>
       <br>
       <a href="./assets/HP_Blade.pdf" style="text-decoration: none; color: #00bfff; font-weight: bold; margin-top: 5px; display: inline-block;">View Document</a>
     </li>

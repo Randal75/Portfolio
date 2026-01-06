@@ -1,4 +1,3 @@
-html
 <div style="background-color: #1a1a2e; color: #e0e0e0; padding: 25px; font-family: Arial, sans-serif;">
 
   <h1 style="color: #00ffc8; margin-bottom: 5px; font-size: 2.5em;">Hi, I'm Randal</h1>

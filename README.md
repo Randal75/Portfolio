@@ -86,7 +86,3 @@
     </li>
   </ul>
 </div>
-
-```
-
-Would you like me to help you add a contact form or a "Back to Top" button to this profile?

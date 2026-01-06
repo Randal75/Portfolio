@@ -6,8 +6,7 @@
     <p style="margin: 5px 0;">
       <span style="font-size: 1.4em; color: #00ffc8;">
       <a href="https://www.linkedin.com/in/randal-nelson-aa935916" target="_blank" style="text-decoration: none; color: #00bfff; font-weight: bold; margin-left: 8px; transition: color 0.3s;">View My LinkedIn Profile</a>
-    </p>
-  </div>
+      
 
   <h2 style="color: #00ffc8; margin-top: 20px;">About Me</h2>
   <div style="padding: 10px 0; line-height: 1.6;">
@@ -89,6 +88,6 @@
       <strong style="font-size: 1.1em; color: #e0e0e0;"> HP Server Solution</strong>
       <br>
       <a href="./assets/HP_Blade.pdf" style="text-decoration: none; color: #00bfff; font-weight: bold; margin-top: 5px; display: inline-block;">View Document</a>
-    </li>
+    
   </ul>
 </div>

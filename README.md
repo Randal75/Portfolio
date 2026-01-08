@@ -4,7 +4,7 @@
 
   <div style="margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #4a00ff;">
     <span style="font-size: 1.4em; color: #00ffc8;">
-      <a href="https://www.linkedin.com/in/randal-nelson-aa935916" target="_blank" style="text-decoration: none; color: #00bfff; font-weight: bold; transition: color 0.3s;">View My LinkedIn Profile</a>
+      <a href="https://www.linkedin.com/in/randal-nelson-aa935916" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #00bfff; font-weight: bold; transition: color 0.3s;">View My LinkedIn Profile</a>
     </span>
   </div>
 
@@ -52,20 +52,20 @@
   <h2 style="color: #00ffc8;">Education</h2>
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #00ffc8;">Master of Cyber Security and Forensics</li>
-    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #00ffc8;"><a href="./assets/USC_GRAD_PGO.pdf" style="text-decoration: none; color: #e0e0e0;">Graduate Certificate in Cyber Security</a></li>
-    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #00ffc8;"><a href="./assets/TAFE_Certificate_4.pdf" style="text-decoration: none; color: #e0e0e0;">Certificate IV in Cyber Security</a></li>
-    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #00ffc8;"><a href="./assets/PM_UK.pdf" style="text-decoration: none; color: #e0e0e0;">Diploma in Project Management</a></li>
+    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #00ffc8;"><a href="./assets/USC_GRAD_PGO.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #e0e0e0;">Graduate Certificate in Cyber Security</a></li>
+    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #00ffc8;"><a href="./assets/TAFE_Certificate_4.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #e0e0e0;">Certificate IV in Cyber Security</a></li>
+    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #00ffc8;"><a href="./assets/PM_UK.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #e0e0e0;">Diploma in Project Management</a></li>
   </ul>
 
   <hr style="border-top: 1px solid #4a00ff; margin: 30px 0;">
 
   <h2 style="color: #00ffc8;">Certificates</h2>
   <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #4a00ff;"><a href="./assets/Fortinet_Certified_Associate_in_Cybersecurity.pdf" style="text-decoration: none; color: #e0e0e0;">Fortinet Certified Associate in Cybersecurity</a></li>
-    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #4a00ff;"><a href="https://www.credly.com/badges/c3aa597e-03f4-4a8f-aaee-9889bed18a90" target="_blank" style="text-decoration: none; color: #e0e0e0;">Cisco – Introduction to Cybersecurity</a></li>
-    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #4a00ff;"><a href="./assets/SAS_Visual_Analytics.pdf" style="text-decoration: none; color: #e0e0e0;">Coursera – Getting started with SAS Visual Analytics</a></li>
-    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #4a00ff;"><a href="./assets/SQL.pdf" style="text-decoration: none; color: #e0e0e0;">Coursera – A Practical Introduction for Querying Databases</a></li>
-    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #4a00ff;"><a href="./assets/Teradata.pdf" style="text-decoration: none; color: #e0e0e0;">Coursera - Getting started with Teradata</a></li>
+    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #4a00ff;"><a href="./assets/Fortinet_Certified_Associate_in_Cybersecurity.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #e0e0e0;">Fortinet Certified Associate in Cybersecurity</a></li>
+    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #4a00ff;"><a href="https://www.credly.com/badges/c3aa597e-03f4-4a8f-aaee-9889bed18a90" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #e0e0e0;">Cisco – Introduction to Cybersecurity</a></li>
+    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #4a00ff;"><a href="./assets/SAS_Visual_Analytics.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #e0e0e0;">Coursera – Getting started with SAS Visual Analytics</a></li>
+    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #4a00ff;"><a href="./assets/SQL.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #e0e0e0;">Coursera – A Practical Introduction for Querying Databases</a></li>
+    <li style="margin-bottom: 10px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #4a00ff;"><a href="./assets/Teradata.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #e0e0e0;">Coursera - Getting started with Teradata</a></li>
   </ul>
 
   <hr style="border-top: 1px solid #4a00ff; margin: 30px 0;">
@@ -74,15 +74,15 @@
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 15px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #ff9800;">
       <strong style="font-size: 1.1em; color: #e0e0e0;">Sales Field Force Automation</strong><br>
-      <a href="./assets/sales_force_automation.pdf" style="text-decoration: none; color: #00bfff; font-weight: bold; margin-top: 5px; display: inline-block;">View Document</a>
+      <a href="./assets/sales_force_automation.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #00bfff; font-weight: bold; margin-top: 5px; display: inline-block;">View Document</a>
     </li>
     <li style="margin-bottom: 15px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #ff9800;">
       <strong style="font-size: 1.1em; color: #e0e0e0;">Cash Management System</strong><br>
-      <a href="./assets/cash_management.pdf" style="text-decoration: none; color: #00bfff; font-weight: bold; margin-top: 5px; display: inline-block;">View Document</a>
+      <a href="./assets/cash_management.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #00bfff; font-weight: bold; margin-top: 5px; display: inline-block;">View Document</a>
     </li>
     <li style="margin-bottom: 15px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #ff9800;">
       <strong style="font-size: 1.1em; color: #e0e0e0;">HP Server Solution</strong><br>
-      <a href="./assets/HP_Blade.pdf" style="text-decoration: none; color: #00bfff; font-weight: bold; margin-top: 5px; display: inline-block;">View Document</a>
+      <a href="./assets/HP_Blade.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #00bfff; font-weight: bold; margin-top: 5px; display: inline-block;">View Document</a>
     </li>
   </ul>
 </div>

@@ -78,7 +78,7 @@
     </li>
     <li style="margin-bottom: 15px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #ff9800;">
       <strong style="font-size: 1.1em; color: #e0e0e0;">Cash Management System</strong><br>
-      <a href="./assets/cash_management.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #00bfff; font-weight: bold; margin-top: 5px; display: inline-block;">View Document</a>
+      <a href="./assets/cash_managment.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #00bfff; font-weight: bold; margin-top: 5px; display: inline-block;">View Document</a>
     </li>
     <li style="margin-bottom: 15px; padding: 10px; background-color: #2a2a4a; border-left: 4px solid #ff9800;">
       <strong style="font-size: 1.1em; color: #e0e0e0;">HP Server Solution</strong><br>
